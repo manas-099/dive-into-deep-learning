@@ -1,7 +1,7 @@
 # 🧠 Dive Into Deep Learning  
 
 Welcome to my **Deep Learning learning repo**!  
-This repository documents my journey as I explore **neural networks, deep learning techniques, and modern AI architectures**. It contains Jupyter notebooks, experiments, and notes I created while learning and practicing deep learning.  
+This repository documents my journey as I explore **neural networks, deep learning techniques, and modern AI architectures**. It contains Jupyter notebooks, experiments  I created while learning and practicing deep learning.  
 
 ---
 
